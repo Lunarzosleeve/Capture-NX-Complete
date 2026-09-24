@@ -1,0 +1,23 @@
+{
+  "repo": "capture-nx-complete",
+  "product": "Capture NX Complete",
+  "kind": "creative",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "photo-editing",
+  "topics": [
+    "capture-nx",
+    "capture-windows",
+    "photo-editing-desktop",
+    "how-to-install-capture",
+    "capture-nx-desktop-package",
+    "capture-workspace",
+    "capture-nx-pro-tools",
+    "capture-suite",
+    "zentool-capture",
+    "capture-nx-tool-9"
+  ],
+  "site": "zentool.art"
+}
